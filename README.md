@@ -1,2 +1,2 @@
-# bibliografias
-Bibliografias — referências e fontes dos livros do Gabaru
+# Bibliografias — Gabaru
+Referências e fontes bibliográficas dos livros do Gabaru.
